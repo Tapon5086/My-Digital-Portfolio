@@ -18,7 +18,6 @@ A digital portfolio showcasing your skills and work online. This dynamic and int
 
 ## 🗂️ Project Structure
 
-```
 
 ├── index.html       # Main webpage
 ├── style.css        # Styling and layout
@@ -79,5 +78,5 @@ This project is licensed under the [MIT License](LICENSE).
 **Tapon Paul**
 [GitHub](https://github.com/Tapon5086) • [LinkedIn](https://linkedin.com/in/taponpaul)
 
-```
+
 
